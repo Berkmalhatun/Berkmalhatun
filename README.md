@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java , Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Berkmalhatun?tab=repositories](https://github.com/Berkmalhatun?tab=repositories)
-
 - 📫 How to reach me **brkmalhatun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
