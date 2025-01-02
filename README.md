@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berk Malhatun</h1>
-<h3 align="center">An eager full-stack Java developer from Turkey</h3>
+<h3 align="center">An eager full-stack developer from Turkey</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkmalhatun&label=Profile%20views&color=0e75b6&style=flat" alt="berkmalhatun" /> </p> -->
 
-- 🌱 I’m currently learning **Java , Spring Framework**
 
 - 📫 How to reach me **brkmalhatun@gmail.com**
 
